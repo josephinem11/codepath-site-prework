@@ -40,10 +40,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![](https://i.imgur.com/9Y7y7Vc.gif)
+![](https://i.imgur.com/UGRaHIQ.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+       
         W3Schools 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
