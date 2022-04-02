@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-<img src="/Listening-Game-Final-Demo.gif?raw=true" title='Video Walkthrough' height= '700' width='' alt='Video Walkthrough'>
+<img src="/Listening-Game-Final-Demo.gif?raw=true" title='Video Walkthrough' height= '' width='' alt='Video Walkthrough'>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
