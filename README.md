@@ -39,11 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://i.imgur.com/9Y7y7Vc.gif) 
+
+![](https://i.imgur.com/9Y7y7Vc.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-    W3Schools 
+        W3Schools 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
     A challenge I had encountered in creating this submission was writing the logic for the guess function and overall addressing the steps to take for our four cases—guessing incorrectly and thus losing the game, guessing correctly but still having remaining turns, guessing correctly but the turn isn’t over, and guessing correctly when the turn is over and is the last turn. Initially, I had trouble determining the logic for when a player has reached their last turn and set pattern less than or equal to 0 within my if statement. I soon realized that since the pattern was an array, I could use its length subtracted by 1 to reach the last turn. Though I didn’t come to this realization right away, I was able to get a better sense of the logic by drawing a diagram of hypothetical patterns on pen and paper. It soon became clear that if we equated the player’s progress to the last pattern in the game and the number of guesses to their progress, this would be indicative of the player’s win.
